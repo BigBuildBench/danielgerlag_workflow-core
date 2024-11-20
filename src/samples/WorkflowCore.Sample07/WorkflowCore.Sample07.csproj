@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <PreserveCompilationContext>true</PreserveCompilationContext>
+    <AssemblyName>WorkflowCore.Sample07</AssemblyName>
+    <OutputType>Exe</OutputType>
+    <PackageId>WorkflowCore.Sample07</PackageId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Update="wwwroot;web.config">
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

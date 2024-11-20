@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Daniel Gerlag</Authors>
+    <Description>AWS providers for Workflow Core
+
+- Provides Queueing support on Workflow Core
+- Provides distributed locking support on Workflow Core</Description>
+    <PackageLicenseUrl></PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/danielgerlag/workflow-core</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/danielgerlag/workflow-core.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+</Project>
